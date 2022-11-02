@@ -1,5 +1,7 @@
 # Tetris
 
+## Final project of academic OOP course, Learned in C++ langauge.
+
 ### This is a windows console tetris game builded in CPP.
 ### There are 3 game modes: 
   * Human Player Vs Human Player
